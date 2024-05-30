@@ -20,7 +20,8 @@ If you have any questions about our paper, feel free to contact us ([Contact](#5
    - Training dataset  
 
      ``` py
-     ├── cell_data ├── 0   #Negative data
+     ├── cell_data
+              ├── 0   #Negative data
      	  		  └── 1	  #Positive data
      ```
 
